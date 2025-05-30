@@ -103,11 +103,12 @@ For other extractors, see `AmDensityExtractor`, `EwDensityExtractor`, `MlnDensit
 
 - See the `examples/` folder for complete scripts demonstrating pricing, density computation, and extraction workflows.
 - See `examples/examples_density_computations_and_plots.py` for density plots.
-For example:
-- ![shimko_density_plot](https://github.com/user-attachments/assets/adf9e34b-53f1-4367-8c10-327eb647db3d)
-- ![mln_density_plot](https://github.com/user-attachments/assets/1b926ea5-065e-4048-ba09-4ceb14da0d06)
-- ![ew_density_plot](https://github.com/user-attachments/assets/d49f396d-9f01-41a3-bf99-a1ccc7f9067f)
-- ![american_mln_density_plot](https://github.com/user-attachments/assets/f285a12d-070d-4215-98b6-c45e35e67226)
+### For example:
+
+- Shimko's Spline Method: ![shimko_density_plot](https://github.com/user-attachments/assets/adf9e34b-53f1-4367-8c10-327eb647db3d)
+- Mixture of Log-Normals: ![mln_density_plot](https://github.com/user-attachments/assets/1b926ea5-065e-4048-ba09-4ceb14da0d06)
+- Edgeworth's Expansion: ![ew_density_plot](https://github.com/user-attachments/assets/d49f396d-9f01-41a3-bf99-a1ccc7f9067f)
+- Mixture of Log-Normals for American Option![american_mln_density_plot](https://github.com/user-attachments/assets/f285a12d-070d-4215-98b6-c45e35e67226)
 
 
 
