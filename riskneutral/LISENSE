@@ -12,5 +12,5 @@ setup(
     ],
     author='Moses Dada, CQF, Ph.D',
     description='Risk-Neutral Density Estimation Tools',
-    url='https://github.com/Moe-Dada/riskneutral'
+    url='https://github.com/Moe-Dada/risk_neutral'
 )
