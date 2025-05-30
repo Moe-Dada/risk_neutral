@@ -16,6 +16,11 @@ A Python library for pricing options under various risk-neutral density assumpti
 
 ## Installation
 
+Simply
+```bash
+pip install riskneutral
+```
+or 
 ```bash
 pip install git+https://github.com/Moe-Dada/risk_neutral.git
 ```
