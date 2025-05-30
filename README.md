@@ -126,3 +126,12 @@ Contributions and issues are welcome! Please open an issue or submit a pull requ
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## References
+
+- Prof. Kam Hamdieh @ [https://profiles.rice.edu/faculty/kam-hamidieh], Hamidieh, K., 2014. Estimating the tail shape parameter from option prices. Available at SSRN 1940117.
+- Dada, Moses O (2025) Three essays on volatility and tail-risk. Doctoral thesis, University of Essex. DOI [https://doi.org/10.5526/ERR-00040865]
+- E. Jondeau and S. Poon and M. Rockinger (2007): Financial Modeling Under Non-Gaussian Distributions Springer-Verlag, London
+- R. Jarrow and A. Rudd (1982) Approximate valuation for arbitrary stochastic processes. Journal of Finanical Economics, 10, 347-369
+- C.J. Corrado and T. Su (1996) S&P 500 index option tests of Jarrow and Rudd’s approximate option valuation formula. Journal of Futures Markets, 6, 611-629
+
