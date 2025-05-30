@@ -1,8 +1,6 @@
 # risk-neutral
 [![PyPI version](https://badge.fury.io/py/riskneutral.svg)](https://badge.fury.io/py/riskneutral)
 [![Python Version](https://img.shields.io/pypi/pyversions/riskneutral.svg)](https://pypi.org/project/riskneutral)
-[![Build Status](https://github.com/Moe-Dada/risk_neutral/actions/workflows/ci.yml/badge.svg)](https://github.com/Moe-Dada/risk_neutral/actions)
-[![Coverage Status](https://coveralls.io/repos/github/Moe-Dada/risk_neutral/badge.svg?branch=main)](https://coveralls.io/github/Moe-Dada/risk_neutral?branch=main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Risk-Neutral Density Estimation Tools
