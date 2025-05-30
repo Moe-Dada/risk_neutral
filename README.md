@@ -5,9 +5,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Moe-Dada/risk_neutral/badge.svg?branch=main)](https://coveralls.io/github/Moe-Dada/risk_neutral?branch=main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Reisk-Neutral Density Estimation Tools
-
-
 Risk-Neutral Density Estimation Tools
 
 A Python library for pricing options under various risk-neutral density assumptions, computing option-implied densities, and extracting model parameters from market data.
